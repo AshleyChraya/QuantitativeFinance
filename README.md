@@ -1,4 +1,4 @@
 # QuantitativeFinance
 
 
-Teh repository has collection of quant finance projects developed using programming languages.
+The repository has collection of quant finance projects developed using programming languages.
