@@ -59,4 +59,5 @@ class european_option:
             price = None
         return price
     
-option1 = european_option(spot,strike,interest_rate,time_to_expiry,vol_annual,"Call")
+option1 = european_option(spot,strike,interest_rate,time_to_expiry,0.12,"Call")
+option1.option_price()
